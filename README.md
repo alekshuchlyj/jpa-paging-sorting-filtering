@@ -1,7 +1,7 @@
 # JPA Paging Sorting Filtering
 Paging, Sorting and Filtering using JPA Criteria API
 
-## Application test
+## Application Launch
 1. Go to http://localhost:8080/swagger-ui for API testing
 3. Go to http://localhost:8080/h2 for DB testing 
 
